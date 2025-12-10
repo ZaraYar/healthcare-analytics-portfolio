@@ -1,0 +1,10 @@
+[
+  {
+    "note_id": 1,
+    "text": "Patient: 68 y/o with Type 2 diabetes (A1c 8.7%), HTN, hyperlipidemia. Recent ER visit for hypoglycemia. Meds: metformin, glipizide, lisinopril, atorvastatin. Labs: LDL 120, eGFR 60. Plan: reinforce diet, adjust glipizide, follow-up in 2 weeks."
+  },
+  {
+    "note_id": 2,
+    "text": "45 y/o with asthma and anxiety. Using albuterol 4-5x/week. No recent hospitalizations. Wellness program engagement: moderate. Smoker (quit attempt planned). Plan: add ICS inhaler, refer to smoking cessation, schedule PFT."
+  }
+]

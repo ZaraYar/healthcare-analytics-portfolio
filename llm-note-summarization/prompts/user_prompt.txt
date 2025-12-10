@@ -1,0 +1,1 @@
+Summarize the following note. Keep to 120-180 words. Include risk flags if any (e.g., high A1c, frequent ER visits). Note: <NOTE_TEXT>
