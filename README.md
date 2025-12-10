@@ -1,14 +1,14 @@
 
-# Zahra Farzanyar — Healthcare Data Science Portfolio
+# Healthcare Data Science Portfolio
 
-This repository contains two recruiter-ready projects with documentation and runnable code:
+This repository contains two projects with documentation and runnable code:
 
 1. **readmission-prediction/** — Binary classification for 30-day hospital readmission using XGBoost with SHAP interpretability.
 2. **llm-note-summarization/** — Clinical note summarization using Azure OpenAI (synthetic, de-identified samples) with prompt templates and an evaluation script.
 
 > **Privacy Notice:** All data in this repo is synthetic and de-identified. No PHI (Protected Health Information) is included.
 
-## Quick Start
+## Start
 ```bash
 # Create and activate a virtual environment (recommended)
 python -m venv .venv
@@ -26,7 +26,7 @@ python src/summarize_notes.py --input data/sample_notes.json --output outputs/su
 python src/evaluate_summaries.py --input outputs/summaries.json
 ```
 
-## How to publish to GitHub
+## Publish to GitHub
 ```bash
 git init
 git add .
